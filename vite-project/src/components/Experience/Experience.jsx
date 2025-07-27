@@ -6,15 +6,15 @@ const Experience = () => {
     <section id="experience" className="experience">
       <h2 className="experience-title">Experience</h2>
       <div className="experience-item">
-        <h3>Software Developer Intern</h3>
-        <p className="company-name">Arcoiris Logics</p>
+        <h3>Arcoiris Logics</h3>
+        <p className="company-name">Software Developer Intern</p>
         <p className="description">
           Softwarte Developer Intern      
         </p>
       </div>
       <div className="experience-item">
-        <h3>Software Developer Intern</h3>
-        <p className="company-name">Zestful Outreach</p>
+        <h3>Zestful Outreach</h3>
+        <p className="company-name">Software Developer Intern</p>
         <p className="description">
           Softwarte Developer Intern    
         </p>
