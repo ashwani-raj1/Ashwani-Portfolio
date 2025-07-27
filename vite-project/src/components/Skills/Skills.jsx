@@ -5,7 +5,7 @@ const Skills = () => {
 
     const skills = [
     'JavaScript', 'React', 'Node.js', 'Python', 'TypeScript', 'MongoDB', 
-    'PostgreSQL', 'AWS', 'Docker', 'Git', 'REST APIs', 'GraphQL'
+    'PostgreSQL', 'Html', 'Css', 'Git', 'Wordpress', 'Sql'
   ];
   return (
     <section id="skills" className="skills">
