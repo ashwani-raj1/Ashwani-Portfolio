@@ -13,7 +13,7 @@ const AboutSection = () => {
                 I'm a <span className="highlight">Full Stack Developer</span> with Passion for Innovation
               </h2>
               <p className="about-description">
-               I’m Ashwani Raj, a dedicated and enthusiastic student currently pursuing my B.Tech from Roorkee Institute of Technology. With a strong foundation in computer science and a constant desire to learn, I enjoy exploring new concepts and turning ideas into reality. I believe in consistent growth, curiosity-driven learning, and making the most out of every opportunity.
+               I’m Ashwani Raj, a dedicated and enthusiastic student currently pursuing my B.Tech from Roorkee Institute of Technology currently in #rd Year. With a strong foundation in computer science and a constant desire to learn, I enjoy exploring new concepts and turning ideas into reality. I believe in consistent growth, curiosity-driven learning, and making the most out of every opportunity.
               </p>
 
               <div className="about-details">
