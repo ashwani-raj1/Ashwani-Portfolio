@@ -4,8 +4,8 @@ import './skills.css';
 const Skills = () => {
 
     const skills = [
-    'JavaScript', 'React', 'Node.js', 'Python', 'TypeScript', 'MongoDB', 
-    'PostgreSQL', 'Html', 'Css', 'Git', 'Wordpress', 'Sql'
+    'Html', 'css','JavaScript', 'ReactJs', 'Node.js', 'MongoDB', 'ExpressJs',
+    'PostgreSQL',  'Git', 'Git Hub', 'Wordpress', 'Sql', 'Php'
   ];
   return (
     <section id="skills" className="skills">

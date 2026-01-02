@@ -13,7 +13,11 @@ const AboutSection = () => {
                 I'm a <span className="highlight">Full Stack Developer</span> with Passion for Innovation
               </h2>
               <p className="about-description">
-               I’m Ashwani Raj, a dedicated and enthusiastic student currently pursuing my B.Tech from Roorkee Institute of Technology currently in 3rd Year. With a strong foundation in computer science and a constant desire to learn, I enjoy exploring new concepts and turning ideas into reality. I believe in consistent growth, curiosity-driven learning, and making the most out of every opportunity.
+               Motivated and detail-oriented third-year B.Tech Computer Science student at RIT Roorkee, passionate about building 
+innovative and efficient solutions using modern technologies.Along with a solid understanding of Data Structures and Algorithms, having solved 200+ coding problems on various 
+platforms. I am also gaining hands-on experience with backend technologies like MongoDB, MySQL, Node.js, Express, and 
+React for frontend. As a fast learner and effective team player, I am an aspiring software engineer, eager to contribute to impactful, real
+world projects.
               </p>
 
               <div className="about-details">
@@ -31,7 +35,7 @@ const AboutSection = () => {
                 </div>
                 <div className="detail-item">
                   <div className="detail-icon"></div>
-                  <span>User Experience Focus</span>
+                  <span>Good Problem Solving Skills</span>
                 </div>
               </div>
 
