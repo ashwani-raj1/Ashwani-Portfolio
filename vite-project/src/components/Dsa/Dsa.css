@@ -1,0 +1,66 @@
+/* ===== DSA SECTION ===== */
+.dsa {
+    padding: 3.5rem 2rem;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #ffffff;
+    border-radius: 16px;
+    max-width: 1100px;
+    margin: 4rem auto;
+}
+
+/* Heading */
+.dsa .first {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #e6e6e6;
+}
+
+/* GFG Link */
+.dsa .first a {
+    color: #00ffcc;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 0.3rem;
+}
+
+.dsa .first a:hover {
+    text-decoration: underline;
+}
+
+/* Topic Container */
+.topicList {
+    text-align: center;
+}
+
+/* Comma-Separated Topics */
+.topicList-item {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #f1f1f1;
+    letter-spacing: 0.4px;
+}
+
+/* Topic Text */
+.topicList-item span {
+    font-weight: 500;
+}
+
+/* Comma Styling */
+.topicList-item span:not(:last-child)::after {
+    content: ", ";
+    color: #00ffcc;
+}
+
+/* Hover Effect */
+.topicList-item span:hover {
+    color: #00ffcc;
+    cursor: default;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .topicList-item {
+        font-size: 1rem;
+    }
+}
